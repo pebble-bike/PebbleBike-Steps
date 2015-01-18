@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "nic@thatlondon.com",
+    "longName": "PebbleActive",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "PebbleActive",
+    "uuid": "154550de-485c-47f4-84ac-cad34c4cafde",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
